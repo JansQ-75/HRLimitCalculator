@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Heart Rate Limits</string>
+    <string name="your_heart_rate_limits_are">Your heart rate limits are:</string>
+    <string name="lower_limit_bpm">Lower limit: %1$s bpm</string>
+    <string name="upper_limit_bpm">Upper limit: %1$s bpm</string>
+</resources>
